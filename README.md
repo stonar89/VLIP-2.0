@@ -1,5 +1,13 @@
 # VLiP 2.0
 
+## Download VLiP 2.0
+
+**[⬇ Download VLiP_2.0.exe for Windows (64-bit)](https://github.com/stonar89/VLIP-2.0/releases/download/vlip2exe/VLiP_2.0.exe)**
+
+[View the release and all downloadable files](https://github.com/stonar89/VLIP-2.0/releases/tag/vlip2exe)
+
+---
+
 **Docking, preparation, pose inspection and PLIP**  
 **User guide for docking, receptor preparation, ligand preparation, pose inspection and PLIP analysis**  
 Version covered: **VLiP 2.0.0 (Docking / PLIP release)**  

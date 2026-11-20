@@ -728,5 +728,5 @@ Run **Diagnose**, then check `logs/vlip_run.log`, the affected ligand's `runlog.
 ---
 
 **VLiP 2.0 User Guide**  
-Guide basis: the supplied `VLiP_2.0(3).py` source and its embedded receptor-cleaner, receptor-preparer and ligand-preparer modules.  
+Guide basis: the supplied `VLiP_2.0.py` source and its embedded receptor-cleaner, receptor-preparer and ligand-preparer modules.  
 Scope: documented program behaviour as implemented in the inspected source, rather than a record of hands-on tests of a particular Windows installation.

@@ -14,7 +14,7 @@ Version covered: **VLiP 2.0.0 (Docking / PLIP release)**
 Platform: **Windows 10/11, 64-bit**
 
 > This guide was prepared by inspecting the VLiP 2.0 source code. It documents the controls and workflows implemented in that version. It is not a claim that every possible installation, input structure or scientific result has been independently validated.
-
+vlip2.0@proton.me
 ## Contents
 
 1. [What VLiP does](#1-what-vlip-does)
